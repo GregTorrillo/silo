@@ -1,5 +1,5 @@
 	
-https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/Silo.mp4
+<img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/Silo.mp4" width="100%" />
 
 
 
