@@ -1,12 +1,3 @@
-	
-<video src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/Silo.mp4" width="100%"></video>
-
-
-
-
-
-
-
 <h1 align="center">SILO - Video Streaming Service </h1>
 
 <div align="center">
