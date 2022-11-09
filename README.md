@@ -1,8 +1,6 @@
 <h1 align="center">SILO - Video Streaming Service </h1>
 
-<div align="center">
-	  <img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/silo-github.gif" width="100%" />
-</div>
+https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/Silo.mp4
 
 <br>
 <p align="center"><a href="https://silo-7i90.onrender.com" target="_blank" rel="noreferrer"><img src="https://github.com/GregTorrillo/GregTorrillo/blob/main/assets/github-website-button.png" alt="Website" width="120px" height="45px"></a></p>
