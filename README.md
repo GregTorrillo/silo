@@ -12,7 +12,7 @@ As a former filmmaker, I saw the need to provide a better service to showcase ar
 Silo is a Full stack video streaming service showcasing the best curated short films and series.  Silo will provide Oscar and BAFTA awarded films, award-winning films from major film festivals like Cannes and Sundance, and films categorized by time (films under 5 mins, films 5-10 mins).  The frontend was built with React, Redux Tool Kit, and styled using styled components. The backend consists of Express, Node.js, MongoDB as the database to store user data, and Firebase for user authentication.  Silo features include Register and Sign in pages, Home page with a hero video component, film category sliders, card hovering that has features to add to favorite list, like and dislike, Shorts and Series pages with sorting functions, My List page to view and remove favorite films, and a Player page that has picture and picture and play speed features .  This app is responsive on all devices and was deployed on Render.
 
 ## Optimization:
-Currently data from TMDB API is populating the film categories and sliders.  Licensing and permissions from artists to play their short films and series will have to be worked out.  An additional database will have to be added to store and upload video files.  Payment and subscription service needs to be setup and implemented.
+Silo is a minimum viable product and currently data from TMDB API is populating the film categories and sliders.  Licensing and permissions from artists to play their short films and series will have to be worked out.  An additional database will have to be added to store and upload video files.  Payment and subscription service needs to be setup and implemented.
 
 
 ## Techs used:
